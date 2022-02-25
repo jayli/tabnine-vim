@@ -70,6 +70,7 @@ Tabnine plugs into the following completion engines:
 - deoplete.nvim
 - ddc.vim
 - nvim-compe
+- vim-easycomplete
 
 ##### Not using any of the above? 
 - If your completion engine is not supported - file a [feature request](https://github.com/codota/tabnine-vim/issues/new).
